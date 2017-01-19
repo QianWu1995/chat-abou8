@@ -1,0 +1,78 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context="com.example.qianwu.chat_abou8.fragments.movieDetail">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/movieTopic"
+        android:layout_gravity="center_horizontal"
+
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_action_bar_content_inset_material"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linear1"
+        android:layout_below="@+id/movieTopic">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/moviePic"
+            android:layout_gravity="center_horizontal|top"
+
+
+            />
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/imageView3"
+            android:src="@drawable/five_star_rating"/>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/linear1"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/movieDescription"/>
+    </ScrollView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="chat abou8!"
+        android:id="@+id/gochat"
+        android:layout_below="@+id/scrollView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/likeButton"
+        android:layout_below="@+id/scrollView"
+        android:layout_toRightOf="@+id/gochat"
+        android:layout_toEndOf="@+id/gochat"
+        android:src="@drawable/abc_btn_rating_star_off_mtrl_alpha"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_d9fde394948aedd16ddce5ae8bcf9cabc15a44f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b6a458be263f1ff457532acca348bc7fc2e109f2">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e941166af58eed360c3088a76eed79fe06063767/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_68413f2aae6d46a7cf7533f3eee1d4d8aae5620c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_1eb33a34e37522f24b2e14f79d9ff48b0e9aca25/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.3.1_49c89d4cfa4a13bf570f59c2576f0aeca5c5c0c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_ad2aca582ed149fd4078944f9ba11d91db9e7f59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_ba55ff574754f967e09cf0dd1218541185115c13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_038d638bef337229fc5b23b28b682dc63897dac9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_2baf5f70c10d850a85369c2701fbcc78afa23bef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_2087b110eb89a2d0f46c9aac1f7c1239375a8610/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.3.1_3efc81423398dd5564b9cf2a594b5b1090dd2018/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_b5703a1aabf8df2f220c87b483dfb4e84c7da049/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_790a87e8eb898d09c6afc5c9f974db5f4c731311/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4008c3e1e032c55e9d4025a7696ba9b2f941b3b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_89ad558e0cdffa2be547daad2b0cfb875b2d6bfc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ea8265ec6979001178015164dbac2f94e967f812/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_536bd927d0a65818e0c71d6cc62349396bb6d1c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_48cf8269abf79ec06e875a00242857dc812734b7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_658a338f0583b9d89139060fe7e387524f73f361/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_ab0a8b228ace5b4e1d5796b5ab594961684f085a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_6c96b18156c27846a8f9c8bd1e949ca4fa03f1a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_eeca6a0a3567838b5fb9527197e707f5fb6272e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_71fcc4cadf78988c396c80ca2e6948540a8c0991/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_c9941d9890191d17940f9f59647a98d7d2c218f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_d2da013549e1147732d6765c881d69ed424d8af7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="22ebbe74fcec3cf56a8fc1b4b2fb5d2b4071c0b9">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78fb9d1aa251b0f8dd9577b8c40ef40a28f2575f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_54899cd7a5a395c6811efe831289eb06703d0b6d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_bb544f40019048d22a160434f207af64a89e1153/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_3927e0176699643d68fe2d4073237184d3e43e9a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.miguelcatalan/materialsearchview/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.miguelcatalan-materialsearchview-1.4.0_f37452b96f5e879ed145da740ff083892a0dba84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_f6ae9de89b5093c3db290c2c695dc504ec432a6e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5c1e4b2a46a36ee5a8a1a9cf47013672e93b0838/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_5180a3dc74475597a0c48a54c1f339a938936d04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_f20b320ba925bec8a99403b9d6e883c006976aa3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_8dbc65254044ee3ca1cf1ae5cc26b0aeaeae89ec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_a42d4f3ea1f4b5a3dbd1e710295f1d0e72cd61f6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.11_652ec68fe9fd219f20469872aba672b6578936b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/qianwu/Downloads/Chat_abou8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1aa00e680f349812e5c2319875b2696498b85ca2/classes.dex" />
+    </item>
+
+</items>

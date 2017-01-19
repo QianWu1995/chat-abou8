@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/movieicon"
+            android:title="Featured Movies"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/profileicon"
+            android:title="Update My Profile"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/loveicon"
+            android:title="Movie I Liked"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/searchicon"
+            android:title="Search Your Favouravite Movie"/>
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/logouticon"
+                android:title="Log Out"/>
+
+        </menu>
+    </item>
+
+</menu>
