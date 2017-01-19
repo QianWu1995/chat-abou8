@@ -66,3 +66,6 @@ After the star button is tapped, you can check the movie in the liked movie in t
 <br>
 <img height = "700" src="https://s27.postimg.org/u9wcdtpc3/Screenshot_2017_01_19_11_26_23.png">
 <br>
+
+
+More details to come!!
