@@ -11,6 +11,13 @@ User can sign up by using email and password after they sign up they can login.
 <img height = "700" src="https://s29.postimg.org/htsoznw07/Screenshot_2017_01_19_10_00_31.png">
 <br>
 
+After Logging in you can swipe left to see all the functionalities.
+Including: 
+1.Featured movies
+2.Update my profile
+3.Search movie
+4.Go to each movie and chat with others!
+
 <br>
 <img height = "700" src="https://s27.postimg.org/wlwrlw74j/Screenshot_2017_01_19_11_24_52.png">
 <br>
