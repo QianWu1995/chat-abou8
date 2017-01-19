@@ -12,10 +12,20 @@ User can sign up by using email and password after they sign up they can login.
 <br>
 
 After Logging in you can swipe left to see all the functionalities.
+
+
 Including: 
+
+
 1.Featured movies
+
+
 2.Update my profile
+
+
 3.Search movie
+
+
 4.Go to each movie and chat with others!
 
 <br>
