@@ -9,17 +9,27 @@ A movie App for people love the same movie to exchange their opinion
 <img height = "700" src="https://s23.postimg.org/xmhfns38b/Screenshot_2017_01_19_09_59_58.png">
 <br>
 
+<br>
+<img height = "700" src="https://s29.postimg.org/htsoznw07/Screenshot_2017_01_19_10_00_31.png">
+<br>
 
-![alt text](https://s27.postimg.org/4gimdoh5r/Screenshot_2017_01_19_09_59_58.png)
+<br>
+<img height = "700" src="https://s27.postimg.org/wlwrlw74j/Screenshot_2017_01_19_11_24_52.png">
+<br>
+
+<br>
+<img height = "700" src="https://s30.postimg.org/fraw42r35/Screenshot_2017_01_19_11_25_03.png">
+<br>
+
+<br>
+<img height = "700" src="https://s23.postimg.org/5vcf89lyz/Screenshot_2017_01_19_11_25_08.png">
+<br>
+
+<br>
+<img height = "700" src="https://s23.postimg.org/u20zsu2iz/Screenshot_2017_01_19_11_25_28.png">
+<br>
 
 
-![alt text](https://s27.postimg.org/4hsk73izj/Screenshot_2017_01_19_10_00_31.png)
-
-![alt text](https://s27.postimg.org/hzzgjdv4v/Screenshot_2017_01_19_10_01_10.png)
-
-![alt text](https://s27.postimg.org/ph8nylknz/Screenshot_2017_01_19_10_01_22.png)
-
-![alt text](https://s27.postimg.org/p5r7lu47z/Screenshot_2017_01_19_11_24_52.png)
 
 ![alt text](https://s27.postimg.org/j681vx8tb/Screenshot_2017_01_19_11_25_03.png)
 
