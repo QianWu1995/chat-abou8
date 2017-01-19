@@ -2,7 +2,11 @@
 A movie App for people love the same movie to exchange their opinion
 
 <br>
-<img height = "700" src="https://photos.google.com/search/_tra_/photo/AF1QipMogMW_GdTKJtoyEASVY7ZFsfLRO5dXkWlcAs64">
+<img height = "700" src="https://s27.postimg.org/j6kel5rhv/Screenshot_2017_01_19_11_26_46.png">
+<br>
+
+<br>
+<img height = "700" src="https://s23.postimg.org/xmhfns38b/Screenshot_2017_01_19_09_59_58.png">
 <br>
 
 
