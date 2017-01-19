@@ -1,8 +1,10 @@
 # chat_abou8
 A movie App for people love the same movie to exchange their opinion
 
-
-![alt text](https://s27.postimg.org/4gimdoh5r/Screenshot_2017_01_19_09_59_58.png width="200" height="200")
+<br>
+<img height = "700" src="https://s27.postimg.org/4gimdoh5r/Screenshot_2017_01_19_09_59_58.png">
+<br>
+![alt text](https://s27.postimg.org/4gimdoh5r/Screenshot_2017_01_19_09_59_58.png)
 
 
 ![alt text](https://s27.postimg.org/4hsk73izj/Screenshot_2017_01_19_10_00_31.png)
