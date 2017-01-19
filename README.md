@@ -1,9 +1,7 @@
 # chat_abou8
 A movie App for people love the same movie to exchange their opinion
 
-<br>
-<img height = "700" src="https://s27.postimg.org/j6kel5rhv/Screenshot_2017_01_19_11_26_46.png">
-<br>
+User can sign up by using email and password after they sign up they can login.
 
 <br>
 <img height = "700" src="https://s23.postimg.org/xmhfns38b/Screenshot_2017_01_19_09_59_58.png">
@@ -26,12 +24,14 @@ A movie App for people love the same movie to exchange their opinion
 <br>
 
 <br>
-<img height = "700" src="https://s23.postimg.org/u20zsu2iz/Screenshot_2017_01_19_11_25_28.png">
+<img height = "700" src="https://s24.postimg.org/ir8ci128l/Screenshot_2017_01_19_11_26_46.png">
 <br>
 
 <br>
-<img height = "700" src="https://s24.postimg.org/ir8ci128l/Screenshot_2017_01_19_11_26_46.png">
+<img height = "700" src="https://s23.postimg.org/u20zsu2iz/Screenshot_2017_01_19_11_25_28.png">
 <br>
+
+
 
 
 <br>
