@@ -36,6 +36,14 @@ Including:
 <img height = "700" src="https://s30.postimg.org/fraw42r35/Screenshot_2017_01_19_11_25_03.png">
 <br>
 
+
+By tapping at the movie image, you can enter the movie detail room and see the general description about the movie.
+
+Chat_Abou8 button will direct you to chat room which allows you chat in real time with other movie fans.
+
+Star button allows you to add the this movie to the liked list which is list in the navigatin drawer.
+
+After the star button is tapped, you can check the movie in the liked movie in the navigatin drawer.
 <br>
 <img height = "700" src="https://s23.postimg.org/5vcf89lyz/Screenshot_2017_01_19_11_25_08.png">
 <br>
