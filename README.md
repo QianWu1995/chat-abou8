@@ -29,4 +29,18 @@ A movie App for people love the same movie to exchange their opinion
 <img height = "700" src="https://s23.postimg.org/u20zsu2iz/Screenshot_2017_01_19_11_25_28.png">
 <br>
 
+<br>
+<img height = "700" src="https://s24.postimg.org/ir8ci128l/Screenshot_2017_01_19_11_26_46.png">
+<br>
 
+<br>
+<img height = "700" src="https://s24.postimg.org/ir8ci128l/Screenshot_2017_01_19_11_26_46.png">
+<br>
+
+<br>
+<img height = "700" src="https://s24.postimg.org/r6t9xuq91/Screenshot_2017_01_19_11_26_02.png">
+<br>
+
+<br>
+<img height = "700" src="https://s27.postimg.org/u9wcdtpc3/Screenshot_2017_01_19_11_26_23.png">
+<br>
